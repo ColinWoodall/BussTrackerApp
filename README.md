@@ -1,4 +1,5 @@
 # BusTrackerApp
+An app that tracks various bus stops between two locations. 
 
 Hello and welcome:
 
